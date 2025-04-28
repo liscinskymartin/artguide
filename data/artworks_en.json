@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Welcome to the Gallery",
+    "artist": "Gallery Team",
+    "year": "2025",
+    "description": "We are delighted to welcome you to our gallery. Explore the artworks and immerse yourself in the stories behind each piece.",
+    "image": "images/welcome.jpg"
+  },
+  {
+    "title": "The Silent Tree",
+    "artist": "John Smith",
+    "year": "2025",
+    "description": "This silent tree symbolizes inner peace and resilience.",
+    "image": "images/silent_tree.jpg"
+  },
+  {
+    "title": "Reflections",
+    "artist": "Anna Lopez",
+    "year": "2024",
+    "description": "A study of water surfaces and fragmented memory.",
+    "image": "images/reflections.jpg"
+  },
+  {
+    "title": "Eternal Horizon",
+    "artist": "Emily Carter",
+    "year": "2023",
+    "description": "A breathtaking view of the horizon, capturing the infinite possibilities of the future.",
+    "image": "images/eternal_horizon.jpg"
+  },
+  {
+    "title": "Whispers of the Past",
+    "artist": "Michael Brown",
+    "year": "2022",
+    "description": "An abstract representation of memories fading into the distance.",
+    "image": "images/whispers_past.jpg"
+  },
+  {
+    "title": "Dancing Lights",
+    "artist": "Sophia Lee",
+    "year": "2021",
+    "description": "A vibrant depiction of the northern lights dancing across the night sky.",
+    "image": "images/dancing_lights.jpg"
+  },
+  {
+    "title": "Thank You for Visiting",
+    "artist": "Gallery Team",
+    "year": "2025",
+    "description": "Thank you for exploring our gallery. We hope you enjoyed the experience. For more information, visit our website or contact us.",
+    "image": "images/thank_you.jpg"
+  }
+]
